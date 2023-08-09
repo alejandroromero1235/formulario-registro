@@ -1,0 +1,61 @@
+body{
+    background: url("https://www.paellacreativa.com.ar/wp-content/uploads/2014/03/logos_creativos.jpg");
+    background-size: cover;
+}
+
+
+.formularios{
+    width: 400px;
+    background: rgba(27, 3, 38, 0.956);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+
+}
+.formularios h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.sesions{
+    width: 350px;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+
+}
+.formularios p{
+   height: 40px;
+   text-align: center;
+   font-size: 18px;
+   
+
+}
+
+.formularios a{
+    color: blue;
+    text-decoration: none;
+
+}
+.formularios a:hover{
+    color: blue;
+    text-decoration: underline;
+
+}
+.botones{    
+    width: 350px;
+    background: blue;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin-left: 16px 0;
+    font-size: 16px;
+
+}
